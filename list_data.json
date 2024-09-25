@@ -1,22 +1,29 @@
 {
-	"movies": [
+	"Evan's Favorite Things": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Song": Drunk Drivers Killer Whales",
+			"Artist": "Car Seat Headrest",
+			"Year": "2016",
+			"Why": "A nice tune about trying to be better"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Book": "Evicted",
+			"Author": "Matthew Desmond",
+			"Year": "2016",
+			"Why": "Powerful ethnography about housing policy and its personal impacts"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Movie": "Rush",
+			"Director": "Ron Howard",
+			"Year": "2013",
+			"Why": "Entertaining car racing and though-provoking about how risky to live your life"
+		},
+		{
+			"Restaurant (Berkeley)": "Noodles Fresh",
+			"Location": "2430 Shattuck Ave",
+			"Year": "2014",
+			"Why": "Amazing noodles!"
 		}
+
 	]
 }
