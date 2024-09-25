@@ -1,13 +1,13 @@
 {
 	"Evan's Favorite Things": [
 		{
-			"Song": "Drunk Drivers Killer Whales",
-			"Artist": "Car Seat Headrest",
+			"Thing": "Song: Drunk Drivers Killer Whales",
+			"Created by": "Car Seat Headrest",
 			"Year": "2016",
 			"Why": "A nice tune about trying to be better"
 		},
 		{
-			"Book": "Evicted",
+			"Book": "Book: Evicted",
 			"Author": "Matthew Desmond",
 			"Year": "2016",
 			"Why": "Powerful ethnography about housing policy and its personal impacts"
@@ -20,7 +20,7 @@
 		},
 		{
 			"Restaurant (Berkeley)": "Noodles Fresh",
-			"Location": "2430 Shattuck Ave",
+			"Location": "Folks at 2430 Shattuck Ave",
 			"Year": "2014",
 			"Why": "Amazing noodles!"
 		}
